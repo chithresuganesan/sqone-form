@@ -11,7 +11,7 @@
                   @csrf
                     <div class="form-row">
                       <div class="col-md-4 mb-3">
-                        <label for="validationCustom01">First name</label>
+                        <label for="validationCustom01">First name || First name</label>
                         <input type="text" class="form-control" id="validationCustom01" name="first_name" placeholder="First name" value="Mark" required>
                         <div class="valid-feedback">
                           Looks good!
