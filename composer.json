@@ -1,0 +1,19 @@
+{
+    "name": "sqone/form",
+    "description": "This is developing form",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Chithu",
+            "email": "chithresu@secqureone.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Sqone\\Form\\": "src/"
+        }
+    },
+}
